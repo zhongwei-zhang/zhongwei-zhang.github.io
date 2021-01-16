@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zhongwei Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD candidate at KAUST"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FCicmEMAAAAJ&hl=en&authuser=3&oi=sra"
-  email            : "zhongwei.zhang@kaust.edu.sa"
+  email            : zhongwei.zhang@kaust.edu.sa
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
