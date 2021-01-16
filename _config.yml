@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Zhongwei Zhang"
+title                    : "Zhongwei Zhang"
 title_separator          : "-"
 name                     : &name "Zhongwei Zhang"
 description              : &description "PhD candidate at KAUST"
