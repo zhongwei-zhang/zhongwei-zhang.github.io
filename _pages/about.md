@@ -16,8 +16,8 @@ I am currently interested in Bayesian statistics, extreme value theory and its a
 
 Talks
 ------
-Contributed talk at the 2020 virtual JSM \
-Contributed talk at the 2021 virtual ENAR (upcoming)
+Contributed talk at the 2020 virtual JSM<br>
+Contributed talk at the 2021 virtual ENAR (upcoming)<br>
 
 
 
