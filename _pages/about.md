@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ I am currently interested in Bayesian statistics, extreme value theory and its a
 
 Talks
 ======
-Contributed talk at the 2020 virtual JSM
+Contributed talk at the 2020 virtual JSM \\
 Contributed talk at the 2021 virtual ENAR (upcoming)
 
 
