@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student (supervisor: [Raphaël Huser](https://cemse.kaust.edu.sa/extstat/people/person/raphael-huser)) in the statistics program at the King Abdullah University of Science and Technology (KAUST). Prior to this, I obtained my master degree from the Technical University of Munich under the suoervision of Claudia Klüppelberg and my bachelor from Sichuan University.
+I am a third-year PhD student (supervisor: [Raphaël Huser](https://cemse.kaust.edu.sa/extstat/people/person/raphael-huser)) in the statistics program at the King Abdullah University of Science and Technology (KAUST). Prior to this, I obtained my master degree from the Technical University of Munich under the supervision of Claudia Klüppelberg and my bachelor degree from Sichuan University.
 
 Research interest
 ------
